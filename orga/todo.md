@@ -1,4 +1,5 @@
 ## pre
+- [ ] Essenskarte ausgefasst --> Erinnerung
 - [ ] Laptops 
   - [ ] Stromversorgung
   - [ ] Ersatz Geräte
@@ -11,16 +12,18 @@
         - [x] Büro Martin
       - [x] Veranstaltung 
         - [x] A101
-- [ ] Essenskarte ausgefasst --> Erinnerung
+
 - [ ] Raum aufgebaut
-- [ ] Merch 
-  - [ ] Sabriye checkt in Bregenz
-  - [ ] Sabriye --> Richard: Kappen Vandans
-    - [ ] Notizbuch für Lehrkräfte
-    - [ ] Rückmeldung an Martin
+- [x] Merch 
+  - [x] Sabriye checkt in Bregenz
+  - [x] Sabriye --> Richard: Kappen Vandans
+    - [x] Notizbuch für Lehrkräfte
+    - [x] Rückmeldung an Martin
 
 - [x] Raum reserviert
-- [ ] Struktur Übersicht für Ablauf 
+- [x] Struktur Übersicht für Ablauf 
+- [x] Presentation fertig
+- [x] Optionales Modul vorbereitet
 
 
 ## during

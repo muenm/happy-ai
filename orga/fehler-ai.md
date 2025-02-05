@@ -1,0 +1,2 @@
+![Wie entstehen Fehler beim Maschinellen Lernen?
+Die Grafik zeigt, wie fehlerhafte Trainingsdaten beim Maschinellen Lernen zu verzerrten Ergebnissen führen. Quelle: https://ki-campus.org/images/fehler-ml](https://github.com/muenm/happy-ai/blob/main/img/fehler-ai.png)
