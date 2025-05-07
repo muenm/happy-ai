@@ -45,12 +45,12 @@ In der späteren Ausbaustufe soll mit dem selbst programmierten Python Bot nicht
 #### VKW Teil
 
 - Quiz
-- Video [Strom Ausfall](bbllablala)
 
 #### Warm-Up
 
 - Einführung Python Game 
   - [code](https://github.com/muenm/happy-ai/blob/main/examples/game.py)
+  - Programmieren im Browser ohne Registrierung --> [edu blocks](https://edublocks.org/)
 - Wie funktioniert KI?
   - [Suchmaschine](https://www.soekia.ch/search.html)
   - Für was stehen die Buchstaben GPT? [Lösung](https://github.com/muenm/happy-ai/blob/main/orga/solutions.md)
@@ -60,10 +60,6 @@ In der späteren Ausbaustufe soll mit dem selbst programmierten Python Bot nicht
   - Start mit BYOC Projekt
     - Transfer Wissen von Game zu Bot
     - Grundgerüst von Bot bauen --> inkl. [Aufgabe 3](https://github.com/muenm/happy-ai/blob/main/tasks/task03.md)
-
-### Mittagspause
-- gemeinsam Essen gehen
-- Jause für Nachmittag mitnehmen
 
 ### Nachmittag
 
@@ -81,9 +77,10 @@ In der späteren Ausbaustufe soll mit dem selbst programmierten Python Bot nicht
   
 #### Zweiter Teil Nachmittag
 - OPTIONAL
-  - Option 1 - Kleingruppe
+  - Option 1 - [THEY SEE YOUR PHOTOS](https://theyseeyourphotos.com/)
+  - Option 2 - Kleingruppe
     - Enaris Project - Modul 2 - Ethik --> [Arbeitsblatt: Bias-Fehler in der künstlichen Intelligenz](https://enaris.org/material/de/Ethics/Exercises/Ethics%20-%20Worksheet%20Bias%20Error.pdf)
-  - Option 2 - Podcast Interview
+  - Option 3 - Podcast Interview
     - KI Campus --> [Wie begegnen wir diskriminierenden Algorithmen?](https://ki-campus.org/audio/interview-algorithmische-diskriminierung)
 - BYOC - Projekt abschließen
 - Je nach Zeit
@@ -91,3 +88,9 @@ In der späteren Ausbaustufe soll mit dem selbst programmierten Python Bot nicht
     - mehr Gruppen
     - lernen über Python Bot
     - eigenen Bot bauen
+
+## Lizenz
+Die hier verwendeten Ideen und Inhalte stammen von App Camps/fobizz Tools und wurden unter der [Creative Commons Lizenz CC-BY 4.0.](https://creativecommons.org/licenses/by/4.0/) veröffentlicht. Teilweise wurden die Inhalte übernommen und/oder remixed.
+
+Link zu den original Unterlagen: 
+- [AppCamps - KI im Unterricht](https://appcamps.de/unterrichtsmaterial/kuenstliche-intelligenz/)
