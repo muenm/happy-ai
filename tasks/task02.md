@@ -7,7 +7,6 @@ b. Lest euch den Quellcode und die Kommentare (mit # gekennzeichnet) durch.
 c. Passt den Code so an, dass zu Beginn und nach 3 Sekunden immer ein neutraler Smiley 
 angezeigt wird. 
 
-d. Eine mögliche Lösung, findet ihr auf der nächsten Seite.
 
 
 ```python 
