@@ -10,5 +10,4 @@ aus und setzt die Sprache auf Deutsch (“German”).
 d. Füllt die Tabelle unten mit 7 Komplimenten und 7 Gemeinheiten aus. Überlegt gerne 
 gemeinsam mit eurem Sitznachbarn / eurer Sitznachbarin.
 
-e. Trainiert euer Machine Learning Model mit euren Beispielen. Versucht es zuerst alleine. Auf 
-der nächsten Seite findet ihr eine Schritt-für-Schritt-Anleitung
+e. Trainiert euer Machine Learning Model mit euren Beispielen. 
