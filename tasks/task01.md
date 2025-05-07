@@ -5,5 +5,5 @@ der Oberfläche vertraut. --> [edu blocks](https://app.edublocks.org/)
 b. Passt den Code so an, dass ein trauriger Smiley erscheint, wenn “Du bist doof.” 
 eingegeben wird. 
 
-d. Ändert den Code jetzt noch so ab, dass die NutzerIn dauerhaft aufgefordert wird, eine 
+c. Ändert den Code jetzt noch so ab, dass die NutzerIn dauerhaft aufgefordert wird, eine 
 Eingabe zu machen.
