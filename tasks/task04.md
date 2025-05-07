@@ -6,8 +6,3 @@ welche Variante die richtige ist, fragt mich.
 
 c. Erstellt ein neues Projekt. Nennt das Projekt “MakeMeHappy”. Wählt bei Erkenne → Text
 aus und setzt die Sprache auf Deutsch (“German”).
-
-d. Füllt die Tabelle unten mit 7 Komplimenten und 7 Gemeinheiten aus. Überlegt gerne 
-gemeinsam mit eurem Sitznachbarn / eurer Sitznachbarin.
-
-e. Trainiert euer Machine Learning Model mit euren Beispielen. 
