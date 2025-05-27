@@ -1,6 +1,11 @@
 # happy-ai: BYOC (Build your own Chatbot)
 
 
+## Teaser
+Trainiere deine eigene KI und bring sie zum Reden!
+In diesem Workshop baust du deinen eigenen Chatbot, der mit deiner selbst trainierten KI zusammenarbeitet. Schritt für Schritt lernst du, wie du mit du mit einer echten Programmiersprache deine Ideen zum Leben erweckst – spielerisch und ganz ohne Vorkenntnisse.
+
+
 ## Übersicht
 Der Workshop ist so aufgebaut, das die SuS/Lehrlinge durch das eigenständige handeln und experimentieren Konzepte verstehen und sich zu eigen machen. 
 Die Grundlagen der Programmierung und der Umgang mit der Programmiersprache werden spielerisch und selbstständig erlernt durch die Erstellung eines Computerspieles. Dieses wird Schritt für Schritt um neue Funktionalität erweitert. Dadurch werden die Grundlegenden Konzepte der Programmierung selbst erfahren und nicht in einem Theorieblock vermittelt.
